@@ -1,1 +1,30 @@
-/* Add CSS Styling */
+.class-1 {
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}/* Add CSS Styling */
+
+#number2 {
+    color: blue;
+    font-size: 36px;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.class-2 {
+    background-color: lightpink;
+    font-size: 24px;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+
+}
+
+#number3 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.class-3 {
+    background-color: lightpink;
+    font-size: 24px;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
