@@ -1,18 +1,31 @@
+
 .button1, .button2 {
 
 font-size: 28px;
-font-family: Helvetica, 'Times New Roman', serif
+font-family: Helvetica, 'Times New Roman', serif;
 
 }
 
 .button1 {
     background-color: black; 
     color: white;
+    box-sizing: content-box;
+    width: 700px;
+    height: 300px;
+    padding: 20px;
+    border: solid red;
+    margin: 20px;
+  
 
-}/* Add CSS Styling */
+}
 
 .button2 {
     background-color: yellow;
-    
+    box-sizing: border-box;
+    width: 700px;
+    height: 300px;
+    padding: 20px;
+    border: solid red;
+    margin: 20px;
 
 }
